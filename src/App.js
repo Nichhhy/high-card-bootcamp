@@ -148,7 +148,7 @@ class App extends React.Component {
               ? null
               : `Number of Rounds Left: ${this.state.roundsLeft}`}
           </p>
-          {console.log(this.state)}
+         
         </header>
       </div>
     );
