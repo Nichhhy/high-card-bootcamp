@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/high-card-bootcamp/static/css/main.18dd8dc1.css",
+    "main.js": "/high-card-bootcamp/static/js/main.428061c3.js",
+    "static/media/clubs.png": "/high-card-bootcamp/static/media/clubs.0aabcc5f88f8c886c41b.png",
+    "static/media/hearts.png": "/high-card-bootcamp/static/media/hearts.be688248209cc47a9d2f.png",
+    "static/media/spade.png": "/high-card-bootcamp/static/media/spade.9c456391fef5184981b0.png",
+    "static/media/diamond.png": "/high-card-bootcamp/static/media/diamond.6465eed4f075a6ca007a.png",
+    "index.html": "/high-card-bootcamp/index.html",
+    "main.18dd8dc1.css.map": "/high-card-bootcamp/static/css/main.18dd8dc1.css.map",
+    "main.428061c3.js.map": "/high-card-bootcamp/static/js/main.428061c3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18dd8dc1.css",
+    "static/js/main.428061c3.js"
+  ]
+}
